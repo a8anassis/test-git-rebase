@@ -1,2 +1,2 @@
 # test-git-rebase
-version 2 github
+version 2 local
